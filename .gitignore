@@ -1,0 +1,17 @@
+# 录制文件
+recordings/
+
+# Chrome 用户数据（含登录状态）
+.chrome-profile/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# 临时文件
+*.ts
+*.txt
